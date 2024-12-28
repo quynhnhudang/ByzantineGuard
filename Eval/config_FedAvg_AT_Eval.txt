@@ -1,0 +1,2 @@
+ArrayTaskID	model	num_users	rounds	local_ep	filepath	Sampling
+1	customized_resnet18	10	100	2	./save/AT/Model/fedavg_0.031_cifar_customized_resnet18_1_nParties_10_one-class-noniid__1000_0.5_model_2023-03-24_10:34:03.126028.pt	iid
